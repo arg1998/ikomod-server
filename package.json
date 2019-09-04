@@ -1,0 +1,9 @@
+{
+  "name": "ikomod-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:arg1998/ikomod-server.git",
+  "author": "Amir Reza <arg7971@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
