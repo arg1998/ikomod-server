@@ -10,7 +10,7 @@
   - uri: `/signup`
   - method: `POST`
   - body schema:
-    ```json
+    ```javascript
     {
       "name": string, // min: 5; max: 60; required;
       "phone": string, // length:11; required;
@@ -19,7 +19,7 @@
     }
     ```
   - response schema:
-    ```json
+    ```javascript
     {
       "user": {},
       "token": string
